@@ -1,0 +1,7 @@
+flask==1.1.2
+flasgger==0.8.1
+tensorflow==1.8.0
+keras==2.1.6
+Pillow==7.2.0
+numpy==1.18.5
+matplotlib==3.0.3
